@@ -17,6 +17,7 @@ namespace PracticeLinq
 
             Console.ReadLine();
 
+            
             //use a for each loop to print to console. DO THAT NEXT
         }
     }
